@@ -23,6 +23,8 @@ Les fonctionnalités attendues de cette dernières sont :<br/>
   </pre>
 -Sauvegarder les images modifiées. <br/>
 
+l'application ne traitera que les extensions suivantes : GIF, PNG, JPEG, BMP, WBMP
+
 Outils:
 ==============
 Java, Swing.
